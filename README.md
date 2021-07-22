@@ -1,5 +1,5 @@
-## KNN-Classification-using-Iris-Dataset
-#This segment of code deals with understanding K-Nearest Neighbours classification method and implement it using the Iris Dataset<br>
+# KNN-Classification-using-Iris-Dataset
+This segment of code deals with understanding K-Nearest Neighbours classification method and implement it using the Iris Dataset<br>
 <br>1. First, load the Iris Dataset, which contains the data(data to learn), target(classification labels), target_names(meaning of the labels), feature_names(meaning of the features) and DESCR(full description of the dataset).<br>
 <br>2. Once loaded, we take the first two features in order to easily visualize the results.<br>
 <br>3. Now, we build and train a K-NN model with k=3(number of neighbours).<br>
